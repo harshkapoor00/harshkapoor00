@@ -3,6 +3,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harsh-kapoor00/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harshkapoor.ds@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -11,15 +12,15 @@
 
 I am a **Generative AI Engineer** and **8x Hackathon Winner** specialized in building autonomous agentic systems and high-precision RAG pipelines. My work focuses on transitioning frontier AI research into production-ready infrastructure using modern LLM orchestration frameworks.
 
-### **Generative AI @ 1Gen**
-*   **Agentic AI:** Designing multi-agent workflows using **LangGraph** and **CrewAI** for complex task automation.
-*   **RAG Architectures:** Implementing advanced Retrieval-Augmented Generation systems to eliminate hallucinations and improve factual accuracy.
-*   **Model Orchestration:** Expert in leveraging **Claude 3.5**, **Llama 3.1 (Groq)**, and **LangChain** for high-performance inference.
+### **Generative AI Engineer @ SinglepointAI Inc.**
+*   **Enterprise AI:** Architecting scalable Generative AI solutions for enterprise-grade applications.
+*   **System Design:** Designing robust AI pipelines focusing on scalability, reliability, and low-latency inference.
+*   **LLM Integration:** Implementing state-of-the-art Large Language Models to solve complex business challenges.
 
-### **Data Science & ML Research**
-*   **Predictive Analytics:** Engineered machine learning models for renewable energy maintenance and socio-economic forecasting.
-*   **NLP Publication:** Co-authored research on machine-learning-based topic modeling for public policy analysis (Published in IJPSL).
-*   **Fraud Detection:** Developed specialized ML systems for financial security and anomaly detection.
+### **AIML Apprentice @ 1Gen**
+*   **Agentic AI:** Designed multi-agent workflows using **LangGraph** and **CrewAI** for complex task automation.
+*   **RAG Architectures:** Implemented advanced Retrieval-Augmented Generation systems to eliminate hallucinations.
+*   **Model Orchestration:** Leveraged **Claude 3.5**, **Llama 3.1 (Groq)**, and **LangChain** for high-performance inference.
 
 ---
 
